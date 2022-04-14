@@ -1,0 +1,33 @@
+body{
+    background:cornflowerblue ;
+}
+.btn {
+    box-sizing: content-box;
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: var(--theme-color,rgb(243, 220, 16));
+      color: white;
+      border-style: none;
+      font-weight: 200;
+  }
+h3{
+      color:red;
+}
+.btn-1 {
+    box-sizing: content-box;
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: var(--theme-color,rgb(241, 91, 54));
+      color: white;
+      border-style: none;
+      font-weight: 200;
+  }
+  .btn-2{
+    box-sizing: content-box;
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: var(--theme-color,rgb(252, 0, 0));
+      color: white;
+      border-style: none;
+      font-weight: 200;
+  }
